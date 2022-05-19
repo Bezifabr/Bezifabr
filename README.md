@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Bezifabr
+- 👋 Hi, I’m Maciek!
 - 👀 I’m interested in coding, finances and self development.
 - 🌱 I’m currently learning about kotlin multiplatform capabilities.
 - 💞️ I’m looking to collaborate on applications solving common problems (eg. budgeting, time arrangement, etc.)
