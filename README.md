@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Maciej Šaranda
+👋 Hi, I’m Maciej Šaranda
 I'm a full-stack developer 6+ years of experience building scalable systems with Kotlin, Spring Boot, React, and cloud-native infrastructure (GCP, Kubernetes, Firebase). I enjoy solving real-world problems—from backend architecture and dev tooling to frontend UX and AI workflows.
 
 🔧 What I work with:
